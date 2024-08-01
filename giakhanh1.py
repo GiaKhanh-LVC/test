@@ -1,0 +1,1 @@
+print("hello đây là gia khánh")
