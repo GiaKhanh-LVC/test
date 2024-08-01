@@ -1,1 +1,1 @@
-print("hello đây là gia khánh")
+print("hello đây là gia khánh and quang khai")
